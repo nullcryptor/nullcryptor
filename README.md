@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my profile!
+I'm a **learning cybersecurity professional**.
 
-<!--
-**nullcryptor/nullcryptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy messing around with **memory exploitation**, **reverse engineering games**, and breaking things that probably **weren't meant to be broken**.
 
-Here are some ideas to get you started:
+---
+## Languages I work with regularly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Python**
+* **Lua**
+* **Batch**
+* **PowerShell**
+---
+
+> Always open to collaborating on things that I find interesting.
+
+Have a good time!
